@@ -1,0 +1,33 @@
+mkdir - nowy katalog
+rkdir - usuń katalog
+cd - zmień katalog
+cat - sprawdź zawartość pliku
+ls - sprawdź zawartość katalogu
+pwd - pokaż katalog, w którym się znajduję
+rm - usuń plik
+mv - przenieś plik lub zmień jego nazwę
+cp - kopiuj plik
+mvdir - przenieś katalog lub zmień jego nazwę
+su - zmień użytkownika
+passwd - zmień hasło
+shutdown - zamknij linuxa
+who - sprawdź kto jest zalogowany
+help - wyświetl wszystkie polecenia w Linuxie
+logut - wylogowanie
+----------------------------------------------
+wc - policz wszystkie linie, słowa i znaki w pliku
+rmdir - usuwa pusty katalog
+find - przejrzyj katalg w poszukiwaniu pliku
+which - wypisz, gdzie znajduje się plik  podanej nazwie
+sudo - uruchom program z uprawnieniami administratora
+useradd - dodaj konto użytkownika
+id - wyświetl id użytkownika
+lsof - wyświetl informacje o otwartych plikach
+date - wyświetl/ustaw czas
+uptime - wyświetl jak długo system jest włączony
+clear - wyczyść okno terminala
+factor - podziel liczbę na liczby pierwsze
+printf - sformatuj i wyświetl tekst
+rebot - zrestartuj system
+expand - zamień tabulacje na spacje
+unexpand zamień spacje na tabulacje
